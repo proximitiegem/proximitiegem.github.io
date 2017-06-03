@@ -1,31 +1,33 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "Proximitie Gem",
+    "name": "Drakes Island",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#90a878",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#2b0680",
         "dangerColor": "#f28281",
-        "titleFont": "Open Sans",
+        "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/18768528-437661099940723-2933968177676929029-o-128x227.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/drake-logo-128x154.png",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -46,20 +48,19 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "17px",
-              "color": "#ffffff"
+              "font-size": "17px"
             },
             "I": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#ec9796",
+              "color": "#c8f904",
               "font-size": "18px",
               "text-align": "right"
             }
           },
           "_anchor": "msg-box4-3",
           "_params": {
-            "imageSize": "60",
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "0",
             "parallax": true,
@@ -86,7 +87,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/3dpgIS54shQ",
+              "src": "https://youtu.be/GDVa_qHVMsU",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
@@ -97,9 +98,9 @@
               "size": 250
             }
           },
-          "title": "<i>Don’t let customers pass you by.</i><br>Get our breakthrough technology working for you.",
+          "title": "<i>Best Deal In Town!!</i><br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.royaltie.com/?af=stephmoore\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://drakesislandcafe.webstarts.com/welcome.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enter our Website</a> "
         },
         {
           "_tags": [
@@ -112,7 +113,28 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>We give you a tiny wireless device called a Royaltie Gem.</b></p><p><b>You decide the promotional message you want to broadcast.</b></p><p><b>The Royaltie Gem sends your message to every nearby Android smartphone.</b></p><p><b>Android represents 60% of the North American smartphone market. To receive Royaltie messages, the phone just needs Bluetooth turned on.</b></p>"
+          "text": "<p>Drake's Island Cafe offers delicious, good qualtiy foods at reasonable prices!</p><p><br></p>",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-8",
+          "_params": {
+            "googleMap": {
+              "address": "2073 Post Road\nWells, Maine 04090",
+              "placeId": "ChIJ190RBiGtskwRbYlZ1eHRm3Q",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -121,7 +143,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "14px"
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -130,8 +152,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-6",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -141,8 +163,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "More Info",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Proximitiegem/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/collection/w5gIfB\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCLnrgiDbxrks5JkYvVuzlzA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "text": "MOre Info",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/drakesislandcafe\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCszeHitX01nEYpc0XvE0oMQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_styles": {
@@ -229,7 +251,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
